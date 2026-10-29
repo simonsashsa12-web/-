@@ -1,5 +1,4 @@
-bash
-# === ПОДГОТОВКА (выполнить 1 раз, если ещё не сделано) ===
+
 git --version
 git config --global user.name "Твоё Имя"
 git config --global user.email "email@example.com"
